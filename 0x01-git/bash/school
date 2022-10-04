@@ -1,2 +1,2 @@
-echo "school">bash/school
-echo echo school
+echo"The school is open!"> bash/school
+ echo echo The school is open!
